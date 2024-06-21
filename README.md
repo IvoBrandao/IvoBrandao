@@ -66,14 +66,16 @@ __I'm currently Learning__:
 
 
 
-<details>
-  <summary>⚡ Some Github Stats on public repos </summary>
-  
+### ⚡ Github Stats
+
+  <a href="#">:[![GitHub Streak](https://streak-stats.demolab.com/?user=IvoBRandao&theme=dark)](https://git.io/streak-stats) </a>
+
+  <!--
   <a href="#">![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvoBrandao&show_icons=true&theme=onedark)</a> 
+  -->
   
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoBrandao&layout=compact&theme=onedark)</a>
 
-</details>
 
 <!--
 ### 🔗 Connect with Me
