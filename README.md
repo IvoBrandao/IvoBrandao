@@ -27,7 +27,7 @@ I specialize in developing software for embedded systems with a focus on efficie
 I am passionate about low-level programming, real-time systems, and optimizing hardware-software interactions.
 
 - 🔭 I’m currently working as a Embedded Software Engineer.
-- 🌱 I’m currently learning VHDL/Verilog and High-Level Synthesis (HLS) for FPGAs, Rust and starting with Zig.
+- 🌱 I’m currently learning VHDL/Verilog, High-Level Synthesis (HLS) for FPGAs, Rust and Zig.
 - 👯 I’m looking to collaborate on open source projects related with embedded systems
 
 ## 🛠️ Tools & Technologies
